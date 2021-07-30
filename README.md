@@ -13,9 +13,9 @@
 
 ## Phase 2: advanced methods
 
-+ Tasks: Emotion classification with irony, irony detection with emotions
++ Tasks: Emotion classification with irony
 + Data: 
     + ISEAR for emoiton classification
     + SemEval 2018 for irony detection
     + TweetEval for emotion classification, emotion classification with irony, irony detection with emotions
-+ ML models: Transformers (BERT, RoBERTa)
++ Classifiers: RoBERTa Transformers 
